@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/SimonRussia/lab08.svg?branch=master)](https://travis-ci.org/SimonRussia/lab08)
+[![Build Status](https://travis-ci.org/SimonRussia/lab08.svg?branch=master)](https://travis-ci.org/SimonRussia/lab08) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 ## Laboratory work VIII
 
 Данная лабораторная работа посвещена изучению средств пакетирования на примере **CPack**
