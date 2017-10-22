@@ -125,7 +125,7 @@ EOF
 ```
 
 ```ShellSession
-$ gsed -i 's/lab07/lab08/g' README.md
+$ sed -i 's/lab07/lab08/g' README.md
 ```
 
 ```ShellSession
