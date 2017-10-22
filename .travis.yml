@@ -9,7 +9,6 @@ script:
 - cd _build
 - cpack -G "TGZ"
 - cpack -G "DEB"
-- cpack -G "DragNDrop"
 - cd ..
 
 - cmake -H. -B_build -DCPACK_GENERATOR="TGZ"
